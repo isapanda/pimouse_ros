@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import rospy, unittest, rostest
-import std_msgs.msg import UInt16
+from std_msgs.msg import UInt16
 import rosnode
 import time
 
